@@ -49,16 +49,16 @@
 
 </div>
   
-<h2>Proyectos</h2>  <br>
+<h2> Proyectos </h2>  <br>
 
 |GitHub|Lenguaje|Link|
 |---------|---------|------|
-|<a href="https://github.com/Oen844/VanillaScripters"><img src="https://i.imgur.com/ZDDMb3f.png" height="100px"></a>|<img src="https://midu.dev/images/tags/node.png" height="100px"></a>|<a href="https://mi-app-guay.herokuapp.com/"><img src="https://ih1.redbubble.net/image.1952832123.3187/st,small,507x507-pad,600x600,f8f8f8.jpg" height="100px"></a>|
+|<a href="https://github.com/Oen844/VanillaScripters"><img src="https://i.imgur.com/ZDDMb3f.png" height="100px"></a>|<img src="https://midu.dev/images/tags/node.png" height="100px">|<a href="https://mi-app-guay.herokuapp.com/"><img src="https://ih1.redbubble.net/image.1952832123.3187/st,small,507x507-pad,600x600,f8f8f8.jpg" height="100px"></a>|
 
 
   <br>
-   
-     <h2>Git Status</h2>
+    <br>
+  
     
    <div align="center">
   <div style="display: flex;">
