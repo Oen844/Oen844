@@ -44,17 +44,49 @@
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
-<i>Follow me:</i><br>
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.linkedin.com/in/pauegeacortes/" target="_blank"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Facebook"></a>
 
 
 </div>
+  
+<h2>Proyectos</h2>  <br>
+
+|GitHub|Lenguaje|Link|
+|---------|---------|------|
+|<a href="https://github.com/Oen844/VanillaScripters"><img src="https://i.imgur.com/ZDDMb3f.png" height="100px"></a>|<img src="https://midu.dev/images/tags/node.png" height="100px"></a>|<a href="https://mi-app-guay.herokuapp.com/"><img src="https://ih1.redbubble.net/image.1952832123.3187/st,small,507x507-pad,600x600,f8f8f8.jpg" height="100px"></a>|
+
+
+  <br>
+   
+     <h2>Git Status</h2>
+    
+   <div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oen844&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Oen844&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
+<br><br>
+  <i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/pauegeacortes/" target="_blank"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Facebook"></a>
+  <br><br>
+⭐️ From [Pau Egea](https://github.com/Oen844)
+
 <!--
 **Oen844/Oen844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+
+  <h2>Git Status</h2>
+  <br>
+  <div display : flex>
+ 
+    
+![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Oen844&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oen844&count_private=true&theme=dracula">
 
 Here are some ideas to get you started:
 
