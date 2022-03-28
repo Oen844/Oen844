@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/jGcDVJ5.gif" alt="Welcome!" width="300"/>
   
  <h3>Front End Developer / Back End Developer | Java / Spring | JavaScript / Node | PhP / Laravel </h3>
- <h4  align="left">Soy desarrollador web con muchas ganas de aprender, durante mi experiencia laboral he podido crear difererentes soluciones, entre ellas aplicaciones web con acceso a base de datos "SQL & MONGO", gestión de incidinecias, metodologias SCRUM...
+ <h4  align="left">Soy desarrollador web con muchas ganas de aprender, durante mi experiencia laboral he podido crear diferentes soluciones, entre ellas aplicaciones web con acceso a base de datos "SQL & MONGO", gestión de incidencias, metodologías SCRUM...
  </h4>
   
   <a href="https://oen844.github.io/cv-html-css/">Link a mi CV</a>
