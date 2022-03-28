@@ -9,9 +9,9 @@
  </h4>
   
 </div>
-
+<div align="center" width="50">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oen844)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <!--
 **Oen844/Oen844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
