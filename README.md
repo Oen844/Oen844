@@ -8,9 +8,24 @@
  <h4  align="left">Soy desarrollador web con muchas ganas de aprender, durante mi experiencia laboral he podido crear difererentes soluciones, entre ellas aplicaciones web con acceso a base de datos "SQL & MONGO", gestión de incidinecias, metodologias SCRUM...
  </h4>
   
-</div>
+  <a href="https://github.com/Oen844/cv-html-css">Link a mi CV</a>
+
 <div align="center" width="50">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oen844)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oen844)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  
+  <div align="center">
+
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
+<i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/pauegeacortes/" target="_blank"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Facebook"></a>
+
+
 </div>
 <!--
 **Oen844/Oen844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
