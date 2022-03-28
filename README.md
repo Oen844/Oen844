@@ -8,7 +8,7 @@
  <h4  align="left">Soy desarrollador web con muchas ganas de aprender, durante mi experiencia laboral he podido crear difererentes soluciones, entre ellas aplicaciones web con acceso a base de datos "SQL & MONGO", gestión de incidinecias, metodologias SCRUM...
  </h4>
   
-  <a href="https://github.com/Oen844/cv-html-css">Link a mi CV</a>
+  <a href="https://oen844.github.io/cv-html-css/">Link a mi CV</a>
 
 <div align="center" width="50">
   <br>
