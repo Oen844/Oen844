@@ -70,7 +70,7 @@
   <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.linkedin.com/in/pauegeacortes/" target="_blank"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Facebook"></a>
+<a href="https://twitter.com/paucast" target="_blank"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Facebook"></a>
   <br><br>
 ⭐️ From [Pau Egea](https://github.com/Oen844)
 
