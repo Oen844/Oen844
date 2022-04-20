@@ -51,7 +51,7 @@
   
 <h2> Proyectos </h2>  <br>
 
-|GitHub|Lenguaje|Link|
+|GitHub|Tecnología|Link|
 |---------|---------|------|
 |<a href="https://github.com/Oen844/VanillaScripters"><img src="https://i.imgur.com/ZDDMb3f.png" height="100px"></a>|<img src="https://midu.dev/images/tags/node.png" height="100px">|<a href="https://mi-app-guay.herokuapp.com/"><img src="https://ih1.redbubble.net/image.1952832123.3187/st,small,507x507-pad,600x600,f8f8f8.jpg" height="100px"></a>|
 |<a href="https://github.com/Oen844/sigle-page-app"><img src="https://camo.githubusercontent.com/7e60c83fd50825e9fb9dcabdda1fd2a03b11af4fe98fd1d66b6b4bf672d3164e/68747470733a2f2f692e696d6775722e636f6d2f435a6a496a69462e706e67" height="100px"></a>|<img src="https://midu.dev/images/tags/node.png" height="100px">|<a href="https://oen844.github.io/sigle-page-app/"><img src="https://www.setvalue.net/static/940f4088bc879934235c66a796026b9c/73822/GitHubPages.jpg" height="100px"></a>|
