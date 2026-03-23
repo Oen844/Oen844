@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="100" viewBox="0 0 500 100" style="background-color: #151515;">
+  <style>
+    .typing-text {
+      fill: #0078D4;
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 24px;
+      font-weight: bold;
+      opacity: 0;
+      animation: typing 6s steps(20, end) infinite;
+    }
+    .line-2 { animation-delay: 2s; }
+    .line-3 { animation-delay: 4s; }
+
+    @keyframes typing {
+      0% { width: 0; opacity: 1; }
+      1% { opacity: 1; }
+      33% { width: 100%; opacity: 1; }
+      34% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    
+    .cursor {
+      animation: blink 0.7s infinite;
+      fill: #0078D4;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+  
+  <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" class="typing-text line-1">Ingeniero Full Stack</text>
+  <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" class="typing-text line-2">Arquitecto de IA</text>
+  <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" class="typing-text line-3">Especialista Gemini</text>
+</svg>
