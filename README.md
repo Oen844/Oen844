@@ -21,9 +21,9 @@
     Desarrollador políglota capaz de navegar desde el bajo nivel hasta arquitecturas modernas de alto rendimiento.
   </p>
 
-  <a href="[https://oen844.github.io/cv-html-css/](https://cv-html-css.papau84.workers.dev/)">
-    <img src="https://img.shields.io/badge/Ver%20mi%20CV-0078D4?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Link">
-  </a>
+<a href="https://cv-html-css.papau84.workers.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20mi%20CV-0078D4?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Link">
+</a>
 </div>
 
 ---
